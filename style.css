@@ -1,0 +1,18 @@
+html{
+    font-family:Helvetica, sans-serif
+}
+#banner {
+    background-color: darkgoldenrod;
+    text-align: center;
+    padding: 100px;
+    color: white;
+}
+#banner img{
+    height: 250px;
+    width: auto;
+}
+
+#banner aside{
+    font-style: italic;
+    
+}
